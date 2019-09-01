@@ -15,3 +15,6 @@ cp: copy (cp original document new document name)
 mv: move (mv document place new document name)
 mv: rename(mv document name new document name)
 ls -R: makes you look cool
+git add -- all: up a document to local github
+git commit -m '(title)'
+git push: push everything added to github
