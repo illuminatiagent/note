@@ -4,7 +4,7 @@
 | ---- | ---- |
 |   man (command)   |    instruction about the commad   |
 |    pwd  |    print working directory   |
-|    conda create -n name  |      create a new enviroment |
+|    conda create -n name  |      crea|te a new enviroment |
 |    ls  | list of files     |
 |   clear   | clear     |
 |    ls -a  |      show all files|
@@ -19,4 +19,4 @@
 |   ls -R   |   makes you look really cool   |
 |   git add -- all    |  up a document to local github    |
 |     git commit -m '(title)'  |    commit  document  |
-|   git push    |    push everything added to github   |
+|   git push    |    push everything added to github   
