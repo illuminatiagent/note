@@ -4,7 +4,7 @@
 | ---- | ---- |
 |   man (command)   |    instruction about the commad   |
 |    pwd  |    print working directory   |
-|    conda create -n name  |      crea|te a new enviroment |
+|    conda create -n name  |      create a new enviroment |
 |    ls  | list of files     |
 |   clear   | clear     |
 |    ls -a  |      show all files|
